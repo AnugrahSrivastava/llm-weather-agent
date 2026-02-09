@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "Paste your API key here"
 MODEL_NAME = "llama-3.1-8b-instant"
 
 client = OpenAI(
